@@ -48,3 +48,15 @@ The most important finding in this project wasn't a number — it was a validati
 - `gillionaire_capstone_setup.sql` — MySQL import script
 - Jupyter notebook — full Python analysis, statistical tests, and model code
 - Power BI dashboard (.pbix) — KPI cards, item/city breakdowns, churn table, city slicer
+
+## Dashboard Preview
+
+![Power BI Dashboard](images/dashboard.png)
+
+**Revenue by item:**
+
+![Item Revenue](images/item-revenue.png)
+
+**At-risk customers:**
+
+![At-Risk Customers](images/at-risk.png)
